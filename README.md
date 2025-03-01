@@ -8,6 +8,4 @@ dogs-vs-cats.ipynb - image classification based on VGG16 and InceptionV3 models 
 
 Sem_Segm.ipynb - object segmentation
 
-Objects_detection.ipynb - blood cells detection based on SSD model
-
 NN_Improving_images_classification.ipynb - NN Improving for images classification
